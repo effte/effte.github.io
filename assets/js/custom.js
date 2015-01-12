@@ -102,7 +102,7 @@ jQuery(document).ready(function(){
 		//  COMMENT 	
 				jQuery(document).ready(function(){
 
-				jQuery('#map').gMap({ address: 'Folsom Ave, San Francisco, CA',
+				jQuery('#map').gMap({ address: 'Bombay Stock Exchange, Mumbai',
 							   panControl: true,
 						   zoomControl: true,
 							   zoomControlOptions: {
@@ -123,7 +123,7 @@ jQuery(document).ready(function(){
 					},
 						zoom:15,
 							   markers: [
-							{ 'address' : 'Folsom Ave, San Francisco, CA'}
+							{ 'address' : 'Bombay Stock Exchange, Mumbai, Maharashtra'}
 						]
 							   
 							   
